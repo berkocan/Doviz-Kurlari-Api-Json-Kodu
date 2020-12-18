@@ -1,7 +1,7 @@
 Döviz kurlarını json ile api olarak sitenize eklemek için aşağıdaki kodları kullanabilirsiniz. ▼☟↓
 
 <?php
-    $JSON = json_decode(file_get_contents('https://www.genelpara.com/embed/doviz.json'), true);
+    $JSON = json_decode(file_get_contents('https://api.genelpara.com/embed/doviz.json'), true);
 ?>
 <ul>
     <li>
