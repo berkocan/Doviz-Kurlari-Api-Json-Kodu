@@ -1,4 +1,4 @@
-# Döviz Kurları (Api) Json Kodu
+# Döviz Kurları Api
 Döviz Kurları (Api) Json Kodu, Sitene Döviz Kurları Ekle | Dolar, Euro (Api) Json
 
 doviz-api.php içerisindeki kodlar ile web sitesine döviz kurlarını api ile ekleyebilirsiniz
