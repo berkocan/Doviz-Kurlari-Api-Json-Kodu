@@ -34,6 +34,5 @@ Döviz kurlarını json ile api olarak sitenize eklemek için aşağıdaki kodla
 
 Yada iframe ile hazır kodlar olarak eklemek için aşağıdaki iframe kodunu kullanabilirsiniz.
 
-<iframe src="https://www.genelpara.com/embed/?symbol=doviz&doviz=USD,EUR,GBP,CHF,CAD&stil=stil-6&renk=beyaz" frameborder="0" width="1020" height="300"></iframe>
-
-GP.
+https://www.genelpara.com/sitene-ekle/
+https://www.genelpara.com/api-kodu/
